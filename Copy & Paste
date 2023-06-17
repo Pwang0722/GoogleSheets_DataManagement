@@ -1,0 +1,35 @@
+function ANIMAX2() {
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('#!A2:L13').copyTo(spreadsheet.getActiveRange());
+  spreadsheet.getCurrentCell().copyTo(spreadsheet.getActiveRange(), SpreadsheetApp.CopyPasteType.PASTE_NORMAL, false);
+};
+
+function ANIMAX1() {
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('#!A14:L19').copyTo(spreadsheet.getActiveRange());
+  spreadsheet.getCurrentCell().copyTo(spreadsheet.getActiveRange(), SpreadsheetApp.CopyPasteType.PASTE_NORMAL, false);
+};
+
+function GEM2() {
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('#!A20:L35').copyTo(spreadsheet.getActiveRange());
+  spreadsheet.getCurrentCell().copyTo(spreadsheet.getActiveRange(), SpreadsheetApp.CopyPasteType.PASTE_NORMAL, false);
+};
+
+function GEM1() {
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('#!A36:L43').copyTo(spreadsheet.getActiveRange());
+  spreadsheet.getCurrentCell().copyTo(spreadsheet.getActiveRange(), SpreadsheetApp.CopyPasteType.PASTE_NORMAL, false);
+};
+
+function ONEEA2() {
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('#!A44:L55').copyTo(spreadsheet.getActiveRange());
+  spreadsheet.getCurrentCell().copyTo(spreadsheet.getActiveRange(), SpreadsheetApp.CopyPasteType.PASTE_NORMAL, false);
+};
+
+function ONEEA1() {
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('#!A56:L61').copyTo(spreadsheet.getActiveRange());
+  spreadsheet.getCurrentCell().copyTo(spreadsheet.getActiveRange(), SpreadsheetApp.CopyPasteType.PASTE_NORMAL, false);
+};
