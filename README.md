@@ -3,5 +3,5 @@
 </div>
 
 ## 📖 Example
-&emsp; &emsp; https://danielpw.page.link/AsiaContent
-&emsp; &emsp; https://danielpw.page.link/EnglishContent
+- https://danielpw.page.link/AsiaContent
+- https://danielpw.page.link/EnglishContent
