@@ -1,4 +1,4 @@
-<h1 align="center">Chat2DB</h1>
+<h1 align="center">Goolge Apps Script xPromo</h1>
 <div align="center">
 
 Example:
