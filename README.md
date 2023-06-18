@@ -1,4 +1,4 @@
-<h1 align="center">Goolge Apps Script xPromo</h1>
+<h1 align="center">Goolge Apps Script for Affilliate Sheet</h1>
 </div>
 
 ### 📖 Example
