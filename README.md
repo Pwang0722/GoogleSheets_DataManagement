@@ -1,6 +1,7 @@
 <h1 align="center">Goolge Apps Script for Affiliate Sheet</h1>
 </div>
 
-### 📖 Example
+### Example Sheet
 - https://danielpw.page.link/AsiaContent
 - https://danielpw.page.link/EnglishContent
+
