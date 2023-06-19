@@ -5,3 +5,5 @@
 - https://danielpw.page.link/AsiaContent
 - https://danielpw.page.link/EnglishContent
 
+#### Idea
+Use FILTER function to auto the 
