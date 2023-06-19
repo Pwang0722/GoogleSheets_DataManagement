@@ -1,4 +1,4 @@
-<h1 align="center"> ## Goolge Apps Script for Affiliate Sheet</h1>
+##<h1 align="center">Goolge Apps Script for Affiliate Sheet</h1>
 </div>
 
 ### Example Sheet
