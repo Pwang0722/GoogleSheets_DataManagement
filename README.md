@@ -6,4 +6,4 @@
 - https://danielpw.page.link/EnglishContent
 
 #### Idea
-Use FILTER function to auto the 
+Example of using FILTER function to auto-fill similar inputs across multiple sheets.
