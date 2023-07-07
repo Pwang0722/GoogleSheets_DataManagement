@@ -5,5 +5,5 @@
 - https://danielpw.page.link/AsiaContent
 - https://danielpw.page.link/EnglishContent
 
-#### Idea
-Example of using FILTER function to auto-fill similar inputs across multiple sheets.
+#### Introduction
+Example of using the FILTER function to auto-fill similar inputs across multiple sheets and reformatting them with Apps Script.
