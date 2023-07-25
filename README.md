@@ -1,4 +1,4 @@
-<h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formula</h1>
+<h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formulas</h1>
 </div>
 
 ### Spreadsheet Examples
