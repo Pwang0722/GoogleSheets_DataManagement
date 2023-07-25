@@ -20,7 +20,7 @@ Formula example:
   ```bash
   =iferror(FILTER(List,('TITLE LIST'!N:N="ANIMAXCANTO FM00")+('TITLE LIST'!N:N="ANIMAXSOT ONLY00")))
   ```
- - Lastly, achieved by running the Apps Script to tidy up multiple sheets, including hiding and deleting unnecessary columns, rows, and data.
+ - Lastly, running the Apps Script to tidy up multiple sheets, including hiding and deleting unnecessary columns, rows, and data.
 
   Apps Script example:
   ```bash
