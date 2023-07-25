@@ -1,7 +1,7 @@
 <h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formulas</h1>
 </div>
 
-### Example Sheet
+### Example Sheets
 - [Asia Content](https://danielpw.page.link/AsiaContent)
 - [English Content](https://danielpw.page.link/EnglishContent)
 ---
