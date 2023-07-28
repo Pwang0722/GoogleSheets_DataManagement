@@ -1,4 +1,4 @@
-![image](https://github.com/Pwang0722/GoogleSheets_DataManagement/assets/136808262/86cd76a3-fce2-4f96-9bc0-6604467fa5ce)![image](https://github.com/Pwang0722/GoogleSheets_DataManagement/assets/136808262/08e78386-5f95-4738-8179-fb8c9b152d13)<h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formulas</h1>
+<h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formulas</h1>
 </div>
 
 ### Spreadsheet Examples
