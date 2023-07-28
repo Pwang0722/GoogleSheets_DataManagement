@@ -1,4 +1,4 @@
-<h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formulas</h1>
+![image](https://github.com/Pwang0722/GoogleSheets_DataManagement/assets/136808262/86cd76a3-fce2-4f96-9bc0-6604467fa5ce)![image](https://github.com/Pwang0722/GoogleSheets_DataManagement/assets/136808262/08e78386-5f95-4738-8179-fb8c9b152d13)<h2 align="center">Google Sheets: Efficient Data Management with Apps Script and Formulas</h1>
 </div>
 
 ### Spreadsheet Examples
@@ -7,13 +7,13 @@
 ---
 
 ### Outline
-An example of using the FILTER function to auto-fill similar inputs across multiple worksheets and reformatting them with Apps Script.
+An example of using the FILTER function to auto-fill inputs across multiple worksheets and reformatting them with Apps Script.
 
 ---
 
 ### Ｍethod 
 Take spreadsheet [Asia Content](https://danielpw.page.link/AsiaContent) as an example:
-- Fill in the data under columns A to M in the sheet titled "TITLE LIST". Based on the data you have filled in, a code will be generated from a formula in column N.
+- Fill in the data under columns A to M in the "TITLE LIST" sheet. Based on the data filled in, a code will be generated from a formula in column N.
 - There is a formula in cell B19 in the sheets titled from "1B. ###" to "13A. ###", which retrieves the codes from column N in the "TITLE LIST" sheet and automatically fills in the data based on different requirements in each sheet.
 
 Formula example:
